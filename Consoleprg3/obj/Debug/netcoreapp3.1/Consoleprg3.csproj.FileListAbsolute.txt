@@ -1,0 +1,10 @@
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.exe
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.deps.json
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.runtimeconfig.json
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.runtimeconfig.dev.json
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.dll
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\bin\Debug\netcoreapp3.1\Consoleprg3.pdb
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\obj\Debug\netcoreapp3.1\Consoleprg3.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\obj\Debug\netcoreapp3.1\Consoleprg3.AssemblyInfo.cs
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\obj\Debug\netcoreapp3.1\Consoleprg3.dll
+C:\Users\v\Desktop\c# programming\Consoleprg3\Consoleprg3\obj\Debug\netcoreapp3.1\Consoleprg3.pdb
